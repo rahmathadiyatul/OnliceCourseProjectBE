@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Downloads\\NawaData\\SoupUpdate\\SoupLocal\\SoupLocal.csproj": {}
+    "C:\\Users\\Leonovo\\Downloads\\ComprofGana\\Backend\\SoupLocal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Downloads\\NawaData\\SoupUpdate\\SoupLocal\\SoupLocal.csproj": {
+    "C:\\Users\\Leonovo\\Downloads\\ComprofGana\\Backend\\SoupLocal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\NawaData\\SoupUpdate\\SoupLocal\\SoupLocal.csproj",
+        "projectUniqueName": "C:\\Users\\Leonovo\\Downloads\\ComprofGana\\Backend\\SoupLocal.csproj",
         "projectName": "SoupLocal",
-        "projectPath": "C:\\Users\\LENOVO\\Downloads\\NawaData\\SoupUpdate\\SoupLocal\\SoupLocal.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Downloads\\NawaData\\SoupUpdate\\SoupLocal\\obj\\",
+        "projectPath": "C:\\Users\\Leonovo\\Downloads\\ComprofGana\\Backend\\SoupLocal.csproj",
+        "packagesPath": "C:\\Users\\Leonovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leonovo\\Downloads\\ComprofGana\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leonovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/9EHJsd2iyva9NAXCvl5dbwgtQLE6xZ4vH21mLBFTL5rkinf5L5/api": {}
         },
         "frameworks": {
           "net5.0": {
@@ -80,6 +81,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -88,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -57,3 +57,6 @@ C:\Users\LENOVO\Downloads\NawaData\SoupUpdate\SoupLocal\bin\Debug\net5.0\Microso
 C:\Users\LENOVO\Downloads\NawaData\SoupUpdate\SoupLocal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\LENOVO\Downloads\NawaData\SoupUpdate\SoupLocal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\LENOVO\Downloads\NawaData\SoupUpdate\SoupLocal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Leonovo\Downloads\ComprofGana\Contekan\obj\Debug\net5.0\SoupLocal.dll
+C:\Users\Leonovo\Downloads\ComprofGana\Contekan\obj\Debug\net5.0\refint\SoupLocal.dll
+C:\Users\Leonovo\Downloads\ComprofGana\Contekan\obj\Debug\net5.0\SoupLocal.pdb
